@@ -106,7 +106,7 @@ ml-algorithm-playground/
 
 ▶️ How to Run Locally
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/ml-algorithm-playground.git
+git clone https://github.com/https://github.com/Ashusurya00/ml-playground.git
 cd ml-algorithm-playground
 
 2️⃣ Install Dependencies
