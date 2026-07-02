@@ -1,0 +1,53 @@
+job_posting:
+  id: "CHEM-AI-2026-004"
+  title: "AI Synthetic Chemist"
+  department: "Discovery Chemistry & Automation"
+  employment_type: "Full-time"
+  location: "Hybrid / On-site Laboratory"
+  experience_level: "Mid-to-Senior"
+  
+  role_summary: >
+    Bridges the gap between data science and wet-lab chemistry. This role utilizes 
+    generative AI models, machine learning, and computer-aided synthesis design (CASD) 
+    to predict, optimize, and execute multi-step organic synthesis pathways.
+
+  key_responsibilities:
+    - "Utilize generative AI and retrosynthetic software to design novel molecular pathways."
+    - "Validate computational predictions by executing multi-step organic synthesis at the bench."
+    - "Program, operate, and maintain automated robotic synthesis platforms and continuous-flow systems."
+    - "Curate, clean, and structure laboratory reaction data to feed back into machine learning pipelines."
+    - "Purify and characterize compounds using advanced analytical tools (NMR, LC-MS, HPLC)."
+    - "Collaborate with data scientists to translate chemical intuition into algorithmic rules."
+
+  qualifications:
+    education:
+      degree: "Ph.D. or Master's degree"
+      fields:
+        - "Organic Chemistry"
+        - "Medicinal Chemistry"
+        - "Cheminformatics"
+        - "Computational Chemistry"
+    
+    technical_skills:
+      chemistry:
+        - "Multi-step organic synthesis"
+        - "Inert atmosphere techniques"
+        - "Chromatographic purification"
+        - "Spectral analysis (NMR, MS, IR)"
+      computation_and_ai:
+        - "Python programming"
+        - "Cheminformatics libraries (e.g., RDKit, OpenChem)"
+        - "Machine learning frameworks (e.g., PyTorch, TensorFlow)"
+        - "Computer-Aided Synthesis Design (CASD) tools"
+        - "Automated liquid handlers / Robotics programming"
+
+    soft_skills:
+      - "Cross-disciplinary communication"
+      - "Agile problem-solving"
+      - "Strong attention to technical detail"
+
+  benefits:
+    - "Competitive salary and equity options"
+    - "Comprehensive health, dental, and vision insurance"
+    - "State-of-the-art hybrid AI/wet-lab facility access"
+    - "Continuous professional development allowance"
